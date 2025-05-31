@@ -1,0 +1,25 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+env/
+venv/
+
+# Secret keys and credentials
+*.key
+*.pem
+*.env
+.env
+
+# IDE/editor settings
+.vscode/
+.idea/
+
+# Build artifacts
+dist/
+build/
+*.spec
+
+# macOS
+.DS_Store
